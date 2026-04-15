@@ -14,7 +14,7 @@ Developed an end-to-end ETL pipeline using Python to process HR data, load it in
 - Load: Stored processed data in MySQL (`hr_analytics` table)  
 
 # Dashboard
-Power BI Report: https://app.powerbi.com/groups/me/list?experience=power-bi
+Open the .pbix file in Power BI Desktop to explore the dashboard.
 
 # Key Insights:
 - Employee Count & Attrition Rate  

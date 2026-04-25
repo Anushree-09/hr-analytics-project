@@ -13,7 +13,12 @@ Developed an end-to-end ETL pipeline using Python to process HR data, load it in
 - Transform: Cleaned data, handled missing values, created age groups, and converted attrition to numeric  
 - Load: Stored processed data in MySQL (`hr_analytics` table)  
 
-# Dashboard
+# Dashboard Preview
+
+![Dashboard](dashboard_screenshots/hr_analytics.png)
+
+or
+
 Open the .pbix file in Power BI Desktop to explore the dashboard.
 
 # Key Insights:
